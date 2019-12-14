@@ -1,0 +1,5 @@
+番号,名前,テストの平均点
+1,banana1,-10
+2,banana2,0
+3,banana3,10
+4,banana4,20
